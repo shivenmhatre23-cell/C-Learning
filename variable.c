@@ -2,4 +2,6 @@
 int main()
 {
     int var=3;
+    printf("%d" , var);
+    return 0;
 }
